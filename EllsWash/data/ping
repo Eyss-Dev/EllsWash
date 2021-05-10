@@ -1,0 +1,12 @@
+
+Envoi d'une requˆte 'ping' sur Eyss [::1] avec 32 octets de donn‚esÿ:
+R‚ponse de ::1ÿ: temps<1ms 
+R‚ponse de ::1ÿ: temps<1ms 
+R‚ponse de ::1ÿ: temps<1ms 
+R‚ponse de ::1ÿ: temps<1ms 
+R‚ponse de ::1ÿ: temps<1ms 
+
+Statistiques Ping pour ::1:
+    Paquetsÿ: envoy‚s = 5, re‡us = 5, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 0ms, Maximum = 0ms, Moyenne = 0ms
